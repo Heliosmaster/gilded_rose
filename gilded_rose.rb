@@ -50,6 +50,9 @@ def update_quality
   end
 end
 
+# The code below belongs to the goblin in the corner
+# do not change, or he will insta-rage and one-shot you
+
 Item = Struct.new :name, :sell_in, :quality
 
 Items = [
